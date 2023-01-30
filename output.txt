@@ -1,0 +1,7 @@
+Differences between timestamps: [4006, 6627, 24667]
+I need to post a new status 1674045322174 1674045318168 4006 
+Show me the music player 1674045326618 1674045319991 6627 
+Switch off the rear fog light 1674045349446 1674045324779 24667 
+utterances:[I need to post a new status, Show me the music player, Switch off the rear fog light]
+Timestamps for searchWord1: [1674045322174, 1674045326618, 1674045349446]
+Timestamps for searchWord2: [1674045318168, 1674045319991, 1674045324779, 1674045326587, 1674045347520, 1674045349408]
